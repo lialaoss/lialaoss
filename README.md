@@ -2,24 +2,24 @@
   <img src="https://i.pinimg.com/736x/64/ff/b1/64ffb1eed849bb2e87860ad67f31ba26.jpg" width="100%" alt="Lia Jhong Laos Banner"/>
 </div>
 <div align="center">
-  <h1 style="border-bottom: none;">Hi there! I'm Lia</h1>
+  <strong style="font-size: 2em;">Hi there! I'm Lia</strong>
 </div>
-<table border="0">
-  <tr>
-    <td width="40%" align="center" valign="top">
-      <img src="https://i.pinimg.com/1200x/25/e3/e8/25e3e832e2094c6d4046d4db2d06b051.jpg" width="250" alt="Lia Profile Picture"/>
-    </td>
-    <td width="60%" valign="top">
-      <h2 style="border-bottom: none;">Who Am I?</h2>
-      <p align="justify">
-      I'm a Computer Science and Technology student at the Federal Institute of Ceará (IFCE). My journey in the technology world started early - at 14, I began programming small 3D games in Unity, and soon after I dove into the universe of 2D games with GameMaker. At 15, I discovered my creative streak and also learned to design freelance graphics, which also sparked my interest in interfaces and visual aesthetics.
-      </p>
-      <p align="justify">
-      At 18, upon entering college, I delved deeper into the world of programming. Since then, I've dedicated significant time to studying with a focus on development areas, especially web fullstack development. Despite being a student, my true passion lies in what I love most to explore: the front-end, where I combine logic, creativity and design.
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; text-align: center; padding-right: 20px;">
+    <img src="https://i.pinimg.com/1200x/25/e3/e8/25e3e832e2094c6d4046d4db2d06b051.jpg" width="250" alt="Lia Profile Picture"/>
+  </div>
+  <div style="flex: 2;">
+    <strong style="font-size: 1.5em;">Who Am I?</strong>
+<p align="justify">
+I'm a Computer Science and Technology student at the Federal Institute of Ceará (IFCE). My journey in the technology world started early - at 14, I began programming small 3D games in Unity, and soon after I dove into the universe of 2D games with GameMaker. At 15, I discovered my creative streak and also learned to design freelance graphics, which also sparked my interest in interfaces and visual aesthetics.
+</p>
+
+<p align="justify">
+At 18, upon entering college, I delved deeper into the world of programming. Since then, I've dedicated significant time to studying with a focus on development areas, especially web fullstack development. Despite being a student, my true passion lies in what I love most to explore: the front-end, where I combine logic, creativity and design.
+</p>
+  </div>
+</div>
 
 ## 🚀 A Little More About Me
 
