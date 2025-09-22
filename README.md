@@ -1,6 +1,5 @@
-<!-- Banner y título centrado -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/64/ff/b1/64ffb1eed849bb2e87860ad67f31ba26.jpg" alt="Lia Banner" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/32/d5/c6/32d5c688c632ef55bb4d81e414dd5d6c.jpg" alt="Lia Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -14,19 +13,18 @@
   <!-- Imagen de perfil: se flota a la izquierda para que el texto la rodee -->
   <img src="https://i.pinimg.com/1200x/25/e3/e8/25e3e832e2094c6d4046d4db2d06b051.jpg"
        alt="Lia Profile Picture"
-       width="200"
+       width="350"
        align="left"/>
 
   <!-- Texto: GitHub renderiza este bloque y lo acomodará a la derecha de la imagen -->
   <div>
-    <p>Who am I?</p>
+    <p align="center"><b>Who am I?</b></p>
 
-  <p>I’m Lia, a `Computer Science Engineering student from FIUBA` with a strong passion for technology, games, and innovation. My journey started with software development, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.</p>
+I'm Lia, a `Computer Science Engineering student from FIUBA` with a strong passion for technology, games, and innovation. My journey started with `software development`, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.
 
-  <p>I enjoy working with Unity, Roblox, and backend technologies, always pushing myself to learn new tools and improve my craft. For me, coding is not just about solving problems — it’s about creating interactive experiences and shaping ideas into reality.</p>
-
-  <p>Outside of code, I’m driven by curiosity and the challenge of transforming abstract concepts into real-world solutions.</p>
-  </div>
+I enjoy working with `Unity, Roblox, and backend technologies`, always pushing myself to learn new tools and improve my craft. For me, coding is not just about solving problems — it’s about creating interactive experiences and shaping ideas into reality.
+Outside of code, I’m driven by curiosity and the challenge of transforming abstract concepts into real-world solutions.
+</div>
 
   <!-- Limpia el float para que el resto del contenido no se superponga -->
   <br clear="both"/>
