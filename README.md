@@ -1,19 +1,22 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/b6/e0/92/b6e092074f254b6ced9ea7dc8e88cd60.jpg" alt="Lia Jhong Laos Banner"/>
+  <img src="https://i.pinimg.com/736x/64/ff/b1/64ffb1eed849bb2e87860ad67f31ba26.jpg" width="100%" alt="Lia Jhong Laos Banner"/>
 </div>
+
 <h1 align="center">Hi there! I'm Lia</h1>
 
----
-
-## 🎮 About Me
-
-Hi, I'm **Lia** — a Computer Science Engineering student and developer focused on **game development** and **artificial intelligence**. I have hands-on experience with Unity, Roblox, and software development, working on both academic and professional projects that blend creativity, logic, and technology.
-
-I'm motivated by continuous learning, teamwork, and creating solutions that bring together innovation and entertainment.
-
-Currently working as a **Software Development Intern** at SSI Technologies, where I'm involved in mobile app development with Flutter and AI automation processes.
-
----
+<div>
+  <img align="right" src="YOUR_IMAGE_URL_HERE" width="200" alt="Lia Profile Picture" style="border-radius: 50%; margin-left: 20px;"/>
+  
+  <h2>Who Am I?</h2>
+  
+  <p align="justify">
+  I'm a Computer Science and Technology student at the Federal Institute of Ceará (IFCE). My journey in the technology world started early - at 14, I began programming small 3D games in Unity, and soon after I dove into the universe of 2D games with GameMaker. At 15, I discovered my creative streak and also learned to design freelance graphics, which also sparked my interest in interfaces and visual aesthetics.
+  </p>
+  
+  <p align="justify">
+  At 18, upon entering college, I delved deeper into the world of programming. Since then, I've dedicated significant time to studying with a focus on development areas, especially web fullstack development. Despite being a student, my true passion lies in what I love most to explore: the front-end, where I combine logic, creativity and design.
+  </p>
+</div>
 
 ## 🚀 A Little More About Me
 
@@ -26,8 +29,6 @@ Currently working as a **Software Development Intern** at SSI Technologies, wher
 - 💼 **Open to collaborate**: On game development, mobile apps, and AI projects
 - 📍 **Based in**: Buenos Aires, Argentina
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -38,8 +39,6 @@ Currently working as a **Software Development Intern** at SSI Technologies, wher
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
-
----
 
 ## 🛠️ My Tech Stack
 
@@ -71,8 +70,6 @@ Currently working as a **Software Development Intern** at SSI Technologies, wher
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </div>
-
----
 
 ## 🎮 Featured Projects
 
@@ -161,15 +158,11 @@ Currently working as a **Software Development Intern** at SSI Technologies, wher
   </table>
 </div>
 
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -184,8 +177,6 @@ Currently working as a **Software Development Intern** at SSI Technologies, wher
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio"/>
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
