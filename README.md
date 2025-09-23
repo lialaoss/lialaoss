@@ -11,7 +11,7 @@
   <!-- Imagen de perfil: se flota a la izquierda para que el texto la rodee -->
   <img src="https://i.pinimg.com/1200x/1c/d3/07/1cd307be942f800da8370e9fcabd2f58.jpg"
        alt="Lia Profile Picture"
-       width="350"
+       width="300"
        align="left"/>
 
   <!-- Texto: GitHub renderiza este bloque y lo acomodará a la derecha de la imagen -->
@@ -28,6 +28,7 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   <br clear="both"/>
 </div>
 
+<br> 
 
 ## 🚀 A Little More About Me
 
@@ -51,6 +52,7 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
+<br>
 <br>
 
 <div>
