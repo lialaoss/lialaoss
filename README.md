@@ -51,35 +51,19 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
-## 🛠️ My Tech Stack
+<br>
 
-### Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js,lua,html,css,sql" />
+<div>
+  <p align="center"><b>My tech stack</b></p>
 </div>
-
-### Game Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
-  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/GameMaker%20Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
-</div>
-
-### Frameworks & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,dart" />
-</div>
-
-### Databases & Analytics
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</div>
-
-### Development Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,lua" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter,dart" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,postman,r,git,github,figma" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
 </div>
 
 ## 🎮 Featured Projects
