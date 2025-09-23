@@ -30,16 +30,26 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
 
 <br> 
 
-## 🚀 A Little More About Me
+<div>
+  <!-- Imagen de perfil: se flota a la izquierda para que el texto la rodee -->
+  <img src="https://i.pinimg.com/originals/fb/03/8c/fb038c9d39ed13ab401512e9f87d6fa1.gif"
+       alt="Lia Profile Picture"
+       width="300"
+       align="right"/>
 
-- 🎯 **Currently working on**: Mobile development with Flutter and AI automation workflows
-- 🎮 **Game Development**: Unity, Roblox Studio, GameMaker Studio, Unreal Engine 4
-- 🤖 **AI & Automation**: Building intelligent agents and process automation tools
-- 📱 **Mobile Development**: Flutter/Dart applications with focus on user experience
-- 🎨 **UI/UX**: Creating intuitive interfaces for games and applications
-- 🌱 **Always learning**: New technologies, game design patterns, and AI implementations
-- 💼 **Open to collaborate**: On game development, mobile apps, and AI projects
-- 📍 **Based in**: Buenos Aires, Argentina
+  <!-- Texto: GitHub renderiza este bloque y lo acomodará a la derecha de la imagen -->
+  <div>
+    <p align="center"><b>Who am I?</b></p>
+
+I'm Lia, a `Computer Science Engineering student from FIUBA` with a strong passion for technology, games, and innovation. My journey started with `software development`, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.
+
+I enjoy working with `Unity, Roblox, and backend technologies`, always pushing myself to learn new tools and improve my craft. For me, coding is not just about solving problems — it’s about creating interactive experiences and shaping ideas into reality.
+Outside of code, I’m driven by curiosity and the challenge of transforming abstract concepts into real-world solutions.
+</div>
+
+  <!-- Limpia el float para que el resto del contenido no se superponga -->
+  <br clear="both"/>
+</div>
 
 ## 📊 GitHub Stats
 
