@@ -4,51 +4,54 @@
 
 
 <br>
-<br/>
+<br>
 
-<!-- Contenedor principal: imagen a la izquierda y texto a la derecha -->
 <div>
-  <!-- Imagen de perfil: se flota a la izquierda para que el texto la rodee -->
   <img src="https://i.pinimg.com/1200x/1c/d3/07/1cd307be942f800da8370e9fcabd2f58.jpg"
        alt="Lia Profile Picture"
        width="300"
        align="left"/>
 
-  <!-- Texto: GitHub renderiza este bloque y lo acomodará a la derecha de la imagen -->
+ 
   <div>
     <p align="center"><b>Who am I?</b></p>
 
-I'm Lia, a `Computer Science Engineering student from FIUBA` with a strong passion for technology, games, and innovation. My journey started with `software development`, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.
+I'm Lia, a `Computer Engineering student at FIUBA` with a strong passion for technology, games, and innovation. My journey started with `software development`, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.
 
 I enjoy working with `Unity, Roblox, and backend technologies`, always pushing myself to learn new tools and improve my craft. For me, coding is not just about solving problems — it’s about creating interactive experiences and shaping ideas into reality.
 Outside of code, I’m driven by curiosity and the challenge of transforming abstract concepts into real-world solutions.
 </div>
 
-  <!-- Limpia el float para que el resto del contenido no se superponga -->
-  <br clear="both"/>
+<br clear="both"/>
 </div>
 
 <br> 
-
+<br>
 <div>
-  <!-- Imagen de perfil: se flota a la izquierda para que el texto la rodee -->
   <img src="https://i.pinimg.com/originals/fb/03/8c/fb038c9d39ed13ab401512e9f87d6fa1.gif"
        alt="Lia Profile Picture"
        width="300"
        align="right"/>
 
-  <!-- Texto: GitHub renderiza este bloque y lo acomodará a la derecha de la imagen -->
   <div>
-    <p align="center"><b>Who am I?</b></p>
+    <p align="center"><b>A little about me</b></p>
 
-I'm Lia, a `Computer Science Engineering student from FIUBA` with a strong passion for technology, games, and innovation. My journey started with `software development`, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.
+- Passionate about game development, AI, and interactive experiences
+- Love learning new tools and improving my craft
+- Enjoy mentoring, teaching, and collaborating on projects
+- Curious, creative, and always looking for challenges that mix logic and imagination
 
-I enjoy working with `Unity, Roblox, and backend technologies`, always pushing myself to learn new tools and improve my craft. For me, coding is not just about solving problems — it’s about creating interactive experiences and shaping ideas into reality.
-Outside of code, I’m driven by curiosity and the challenge of transforming abstract concepts into real-world solutions.
+<div align="center">
+  <a href="https://linkedin.com/in/lia-jhong-laos" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:liajhong2003@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</div>
 </div>
 
-  <!-- Limpia el float para que el resto del contenido no se superponga -->
-  <br clear="both"/>
+<br clear="both"/>
 </div>
 
 ## 📊 GitHub Stats
@@ -169,20 +172,6 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/lia-jhong-laos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:liajhong2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio"/>
-  </a>
 </div>
 
 <div align="center">
