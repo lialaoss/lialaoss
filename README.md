@@ -67,7 +67,7 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,postman,r,git,github,figma" />
   <br>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,visualstudio,vscode" />
 </div>
 
 <br>
@@ -84,7 +84,26 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
         <h3 align="center">Margarita Tycoon</h3>
         <div align="center">
           <a href="https://www.roblox.com/es/games/18961999818/Margarita-Tycoon" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Game+Projects" width="100%" alt="Game Projects"/>
+            <img src="img/PORTADA MARGARITA.png" width="100%" alt="Game Projects"/>
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Collection of game projects</strong> - A Roblox tycoon game where I contributed to gameplay design and feature implementation, showcasing creativity and technical skills with Lua scripting in Roblox Studio.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Dizang: Through the nine hells</h3>
+        <div align="center">
+          <a href="https://itsteresa.itch.io/dzng-nine-hells" target="_blank">
+            <img src="img/Main with logo.png" width="100%" alt="Mobile Apps"/>
           </a>
           <br>
           <br>
@@ -96,35 +115,16 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
               <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Collection of game projects</strong> - Unity games, Roblox experiences, and mobile games showcasing creativity and technical skills.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📱 Mobile Development</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Mobile+Apps" width="100%" alt="Mobile Apps"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Mobile applications</strong> - Flutter apps with focus on user experience and performance optimization.</p>
+          <p><strong>Mobile applications</strong> - A collaborative Unity project developed during a Game Jam. Focused on narrative-driven gameplay and atmospheric design, built with C# under time constraints, showcasing teamwork and creativity.</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 AI & Automation</h3>
+        <h3 align="center">Pawify - Connecting Hearts wit Paws</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=AI+Projects" width="100%" alt="AI Projects"/>
+          <a href="https://pawify.org/" target="_blank">
+            <img src="img/1720732049769.jfif" width="100%" alt="AI Projects"/>
           </a>
           <br>
           <br>
@@ -136,26 +136,29 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
               <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Automation & AI tools</strong> - Intelligent agents, process automation, and web scraping solutions.</p>
+          <p><strong>Automation & AI tools</strong> - A mobile app prototype focused on pet adoption and care services. Implemented web scraping to collect and centralize data from multiple sources, combining backend development with a user-friendly interface to create a practical and impactful tool.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">💻 Web Development</h3>
+        <h3 align="center">Fobium</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Web+Projects" width="100%" alt="Web Projects"/>
+            <img src="img/7391a6f1-3f98-475c-be7f-65b89a0582f2.png" width="100%" alt="Web Projects"/>
           </a>
           <br>
           <br>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
               <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
             </a>
           </p>
-          <p><strong>Web applications</strong> - React applications and interactive web experiences with modern UI/UX.</p>
+          <p><strong>Web applications</strong> – A web platform prototype designed to deliver immersive horror-themed experiences. Developed with a focus on web technologies, atmosphere, and interactivity, combining design and programming to create a unique digital concept.</p>
         </div>
       </td>
     </tr>
