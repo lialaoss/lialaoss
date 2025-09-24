@@ -7,7 +7,7 @@
 <br>
 
 <div>
-  <img src="https://i.pinimg.com/1200x/1c/d3/07/1cd307be942f800da8370e9fcabd2f58.jpg"
+  <img src="https://i.pinimg.com/736x/61/50/1f/61501fc78b73b8316526307fdad452d7.jpg"
        alt="Lia Profile Picture"
        width="300"
        align="left"/>
@@ -28,7 +28,7 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
 <br> 
 <br>
 <div>
-  <img src="https://i.pinimg.com/originals/fb/03/8c/fb038c9d39ed13ab401512e9f87d6fa1.gif"
+  <img src="https://i.pinimg.com/736x/f6/2c/ac/f62cac457bbe04dccc42b4f06e533cae.jpg"
        alt="Lia Profile Picture"
        width="300"
        align="right"/>
