@@ -54,17 +54,6 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
 <br clear="both"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lialaoss&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lialaoss&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&text_color=000000&title_color=000000" width="48%" />
-</div>
-
 <br>
 <br>
 
@@ -166,16 +155,6 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
       </td>
     </tr>
   </table>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="center">
