@@ -57,12 +57,12 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lialaoss&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lialaoss&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&text_color=000000&title_color=000000" width="48%" />
 </div>
 
 <br>
