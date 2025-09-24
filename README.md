@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/42/37/34/4237349fce39747a2923587a11075f59.gif" alt="Lia Banner" width="100%"/>
+  <img src="img/LinkedIn Profile Banner - 04.png" alt="Lia Banner" width="100%"/>
 </div>
 
 
