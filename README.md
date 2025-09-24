@@ -70,15 +70,20 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
 </div>
 
-## 🎮 Featured Projects
+<br>
+<br>
+
+<div>
+  <p align="center"><b>Featured Projects</b></p>
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎮 Game Development Portfolio</h3>
+        <h3 align="center">Margarita Tycoon</h3>
         <div align="center">
-          <a href="#" target="_blank">
+          <a href="https://www.roblox.com/es/games/18961999818/Margarita-Tycoon" target="_blank">
             <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Game+Projects" width="100%" alt="Game Projects"/>
           </a>
           <br>
