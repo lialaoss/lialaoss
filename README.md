@@ -1,65 +1,80 @@
+<a href="https://github.com/lialaoss">
+  <img src="img/LinkedIn Profile Banner - 04.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
+</a>
+
+</br>
 <div align="center">
-  <img src="img/LinkedIn Profile Banner - 04.png" alt="Lia Banner" width="100%"/>
+<a href="https://github.com/lialaoss">
+  <img width="180px" 
+       src="https://komarev.com/ghpvc/?username=lialaoss&label=Profile%20views&color=000000&style=for-the-badge" 
+       alt="Visualizações no perfil"
+       title="Total de visualizações"/> 
+</a>
+<a href="https://api.github-star-counter.workers.dev/user/lialaoss">
+  <img width="115px" 
+       alt="seguidores" 
+       title="Total de estrelas" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lialaoss" /> 
+</a>
+<a href="https://github.com/lialaoss?tab=followers">
+  <img width="150px" 
+       alt="seguidores" 
+       title="seguidores no GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/lialaoss?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+</a>
 </div>
 
+</br>
 
-<br>
-<br>
-
-<div>
-  <img src="https://i.pinimg.com/736x/61/50/1f/61501fc78b73b8316526307fdad452d7.jpg"
-       alt="Lia Profile Picture"
-       width="300"
-       align="left"/>
-
- 
-  <div>
-    <p align="center"><b>Who am I?</b></p>
-
-I'm Lia, a `Computer Engineering student at FIUBA` with a strong passion for technology, games, and innovation. My journey started with `software development`, but I quickly found my place in game development and artificial intelligence, where I can mix creativity with logic to build meaningful projects.
-
-I enjoy working with `Unity, Roblox, and backend technologies`, always pushing myself to learn new tools and improve my craft. For me, coding is not just about solving problems — it’s about creating interactive experiences and shaping ideas into reality.
-Outside of code, I’m driven by curiosity and the challenge of transforming abstract concepts into real-world solutions.
-</div>
-
-<br clear="both"/>
-</div>
-
-<br> 
-<br>
-<div>
-  <img src="https://i.pinimg.com/736x/f6/2c/ac/f62cac457bbe04dccc42b4f06e533cae.jpg"
-       alt="Lia Profile Picture"
-       width="300"
-       align="right"/>
-
-  <div>
-    <p align="center"><b>A little about me</b></p>
-
-- Passionate about game development, AI, and interactive experiences
-- Love learning new tools and improving my craft
-- Enjoy mentoring, teaching, and collaborating on projects
-- Curious, creative, and always looking for challenges that mix logic and imagination
+<img src="https://i.pinimg.com/1200x/8d/9f/50/8d9f50069de5ed322a278a94320179e3.jpg" width=330 align="left">
+<div align="center">
 
 <div align="center">
+
+**Who Am I?**
+</div>
+
+I'm Lia, a `Computer Engineering student at FIUBA` passionate about technology, games, and innovation. I started in `software development` but found my place in game development and artificial intelligence, where I combine creativity with logic to build meaningful projects.
+
+I work with `Unity, Roblox, and backend technologies`, always exploring new tools to improve my craft. For me, coding is more than solving problems — it’s about creating interactive experiences and bringing ideas to life.
+
+Beyond code, I thrive on curiosity and challenges, turning abstract concepts into real-world solutions.
+</div>
+</br>
+
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/1200x/16/93/74/1693744336ae3219f3128747819db1aa.jpg"></br>
+
+ <h3 align="center">
+  <img src="./img/user-white.svg" width=15>
+  A Little More About Me 
+  <img src="./img/user-black.svg" width=15>
+ </h3>
+
+ ⬛ Passionate about game development, AI, and creating interactive experiences</br>
+ ⬜ Always eager to learn new tools and improve my craft  </br>
+ ⬛ Enjoy mentoring, teaching, and collaborating on projects </br>
+ ⬜ Curious, creative, and always looking for challenges that combine logic and imagination </br>
+
+  <div align="center"> 
+
   <a href="https://linkedin.com/in/lia-jhong-laos" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:liajhong2003@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+  </div>
 </div>
-</div>
+</br>
 
-<br clear="both"/>
-</div>
 
-<br>
-<br>
+<h3 align="center">
+ <img src="./img/stack-white.svg" width=17>
+ My Tech Stack
+ <img src="./img/stack-black.svg" width=20>
+</h3>
+<br/>
 
-<div>
-  <p align="center"><b>My tech stack</b></p>
-</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,lua" />
   <br>
@@ -69,9 +84,8 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   <br>
   <img src="https://skillicons.dev/icons?i=unity,godot,blender,visualstudio,vscode" />
 </div>
+<br/>
 
-<br>
-<br>
 
 <div>
   <p align="center"><b>Featured Projects</b></p>
@@ -165,6 +179,9 @@ Outside of code, I’m driven by curiosity and the challenge of transforming abs
   </table>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
+    width="100%" 
+  />
+</p>
