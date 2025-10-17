@@ -26,7 +26,7 @@
 
 </br>
 
-<img src="https://i.pinimg.com/1200x/8d/9f/50/8d9f50069de5ed322a278a94320179e3.jpg" width=330 align="left">
+<img src="https://i.pinimg.com/736x/f4/f3/23/f4f3234f52ffc44e8e705631efad5cc1.jpg" width=330 align="left">
 <div align="center">
 
 <div align="center">
