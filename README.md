@@ -74,7 +74,7 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="URL_DEL_PROYECTO_1">
+      <a href="https://www.roblox.com/es/games/18961999818/Margarita-Tycoon">
         <img src="img/PORTADA MARGARITA.png" width="100%">
       </a>
       <br>
@@ -84,7 +84,7 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
       <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <a href="URL_DEL_PROYECTO_2">
+      <a href="https://itsteresa.itch.io/dzng-nine-hells">
         <img src="img/Main with logo.png" width="100%">
       </a>
       <br>
@@ -96,7 +96,7 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="">
+      <a href="https://pawify.org/">
         <img src="img/1720732049769.jfif" width="100%">
       </a>
       <br>
@@ -106,7 +106,7 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
       <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <a href="URL_DEL_PROYECTO_4">
+      <a href=#>
         <img src="img/ce902c4f-bcc2-4508-b073-f4d9968fff9f.png" width="100%">
       </a>
       <br>
