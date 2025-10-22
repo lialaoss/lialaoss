@@ -116,7 +116,6 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
       ">
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
       ">
-      <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google-gemini&logoColor=white&style=for-the-badge">
     </td>
   </tr>
 </table>
