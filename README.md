@@ -71,93 +71,55 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
   <p align="center"><b>Featured Projects</b></p>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Margarita Tycoon</h3>
-        <div align="center">
-          <a href="https://www.roblox.com/es/games/18961999818/Margarita-Tycoon" target="_blank">
-            <img src="img/PORTADA MARGARITA.png" width="100%" alt="Game Projects"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Collection of game projects</strong> - A Roblox tycoon game where I contributed to gameplay design and feature implementation, showcasing creativity and technical skills with Lua scripting in Roblox Studio.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Dizang: Through the nine hells</h3>
-        <div align="center">
-          <a href="https://itsteresa.itch.io/dzng-nine-hells" target="_blank">
-            <img src="img/Main with logo.png" width="100%" alt="Mobile Apps"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Mobile applications</strong> - A collaborative Unity project developed during a Game Jam. Focused on narrative-driven gameplay and atmospheric design, built with C# under time constraints, showcasing teamwork and creativity.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Pawify - Connecting Hearts wit Paws</h3>
-        <div align="center">
-          <a href="https://pawify.org/" target="_blank">
-            <img src="img/1720732049769.jfif" width="100%" alt="AI Projects"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Automation & AI tools</strong> - A mobile app prototype focused on pet adoption and care services. Implemented web scraping to collect and centralize data from multiple sources, combining backend development with a user-friendly interface to create a practical and impactful tool.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Fobium</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="img/7391a6f1-3f98-475c-be7f-65b89a0582f2.png" width="100%" alt="Web Projects"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-            </a>
-          </p>
-          <p><strong>Web applications</strong> – A web platform prototype designed to deliver immersive horror-themed experiences. Developed with a focus on web technologies, atmosphere, and interactivity, combining design and programming to create a unique digital concept.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="URL_DEL_PROYECTO_1">
+        <img src="img/PORTADA MARGARITA.png" width="100%">
+      </a>
+      <br>
+      <strong>Margarita Tycoon</strong>
+      <p>A Roblox tycoon game where I contributed to gameplay design and feature implementation.</p>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+      <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <a href="URL_DEL_PROYECTO_2">
+        <img src="img/Main with logo.png" width="100%">
+      </a>
+      <br>
+      <strong>Dizang: Through the nine hells</strong>
+      <p>A collaborative Unity project developed during a Game Jam. Focused on narrative-driven gameplay.</p>
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="">
+        <img src="img/1720732049769.jfif" width="100%">
+      </a>
+      <br>
+      <strong>Pawify - Connecting Hearts wit Paws</strong>
+      <p>Implemented web scraping to collect and centralize data from multiple sources, combining backend development with a user-friendly interface to create a practical and impactful tool.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <a href="URL_DEL_PROYECTO_4">
+        <img src="img/ce902c4f-bcc2-4508-b073-f4d9968fff9f.png" width="100%">
+      </a>
+      <br>
+      <strong>Markus: AI-Powered Automation Bot</strong>
+      <p>Markus is an AI-powered virtual assistant designed to automate tasks and provide intelligent interactions.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+      ">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+      ">
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google-gemini&logoColor=white&style=for-the-badge">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img 
