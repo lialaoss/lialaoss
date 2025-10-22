@@ -112,10 +112,8 @@ Beyond code, I thrive on curiosity and challenges, turning abstract concepts int
       <br>
       <strong>Markus: AI-Powered Automation Bot</strong>
       <p>Markus is an AI-powered virtual assistant designed to automate tasks and provide intelligent interactions.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-      ">
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
-      ">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
     </td>
   </tr>
 </table>
